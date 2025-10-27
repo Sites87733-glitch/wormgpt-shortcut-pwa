@@ -1,0 +1,22 @@
+
+{
+  "name": "تطبيق الاختصار السريع",
+  "short_name": "اختصار PARASITE",
+  "description": "اختصار فعلي للشاشة الرئيسية تم إنشاؤه بواسطة WormGPT.",
+  "start_url": "./shortcut_page.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#ffeb3b",
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
